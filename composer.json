@@ -1,0 +1,14 @@
+{
+    "name": "test/dima",
+    "description": "test my",
+    "type": "package",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Dima Kosykh",
+            "email": "proba.kosykh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
